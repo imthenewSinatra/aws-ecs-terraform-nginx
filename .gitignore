@@ -1,0 +1,18 @@
+# Arquivos de estado do Terraform (Contém dados sensíveis)
+*.tfstate
+*.tfstate.*
+
+# Diretório de trabalho do Terraform (Binários e provedores)
+.terraform/
+.terraform.*
+
+# Variáveis secretas
+*.tfvars
+*.tfvars.json
+
+# Logs de erro
+crash.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
