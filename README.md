@@ -63,8 +63,8 @@ Terraform successfully planning and applying the infrastructure with clear outpu
 
 ### 2. AWS Management Console
 Verification of the ECS Cluster status and the EC2 instance health within the AWS environment.
-![ECS Cluster](img/aws_ecs_cluster.png)
-![EC2 Instance](img/aws_ec2_instances.png)
+![ECS Cluster](img/ecs_cluster.png)
+![EC2 Instance](img/ec2_instance.png)
 
 ### 3. Final Result
 The Nginx welcome page accessed via the EC2 Public IP, confirming the end-to-end flow.
